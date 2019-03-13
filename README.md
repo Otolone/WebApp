@@ -1,2 +1,2 @@
 # WebApp
-Thanks to Manue Kiessling: The Node Beginner Book
+Thanks to Manuel Kiessling: The Node Beginner Book
